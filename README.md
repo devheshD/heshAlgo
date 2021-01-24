@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi Hesh 👋
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heshAlgo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/heshAlgo)                 
+
 
 <!--
 **heshAlgo/heshAlgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
